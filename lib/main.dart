@@ -74,7 +74,7 @@ class _ChismisState extends State<Chismis> {
             setState(() {
               balyu = !balyu;
             });
-            balyu=true;        },
+                   },
          value: balyu),
        const Text('Wala syay ligo')
       ], 
